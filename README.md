@@ -13,6 +13,8 @@ If you find any of this valuable, please consider tipping at this address:
 Luke Duncan (www.lukejduncan.com)
 1B5VGMpGsTfFJPn2VpKZ5ABbD7qeZstxC1
 
+![Alt text](/bitcoin-tip-address.png "Bitcoin tip address")
+
 You can also find the address for the author of cgminer at the github page provided above.
 
 Installation Requirements
