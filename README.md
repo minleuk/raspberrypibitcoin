@@ -11,6 +11,8 @@ This image preconfigures:
 
 3. cgminer dependencies
 
+4. Butterfly Labs USB ASIC drivers
+
 If you find any of this valuable, please consider tipping at this address:
 
 Luke Duncan (www.lukejduncan.com)
